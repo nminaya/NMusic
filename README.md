@@ -2,7 +2,7 @@
 
 #### Description: 
 
-An University project for the subject "Software Engineering I", which is a system for managing a music store made with java.
+A University project for the subject "Software Engineering I", which is a system for managing a music store made with java.
 
 #### Table of Contents
 
